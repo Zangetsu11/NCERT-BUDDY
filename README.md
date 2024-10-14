@@ -60,9 +60,4 @@ The NCERT Quiz & Text-to-Speech App is a Python-based application that allows us
 - **Text-to-Speech**: Use the `/translate/` endpoint to translate and convert text to speech.
 
 
-### Contribution
-If you'd like to contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and submit a pull request!
 
