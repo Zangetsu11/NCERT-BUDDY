@@ -1,0 +1,8 @@
+fitz
+PyMuPDF
+sentence-transformers
+huggingface-hub
+faiss-cpu
+fastapi
+uvicorn
+python-dotenv
