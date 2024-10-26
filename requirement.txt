@@ -11,4 +11,4 @@ faiss-cpu
 streamlit
 requests
 pydantic
-pumupdf
+pymupdf
